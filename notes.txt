@@ -22,11 +22,12 @@ Attempt 1 : to trace from childhood home in Rohini, Delhi
 Attempt 2 : to trace from current home in Manhattan, New York 
 
 1) 192.168.4.1    - 10116 | New York City, New York | Lat : 40.713192 , Lon -74.006065
-2) 10.22.8.1
+2) 10.22.8.1      - una
 3) 207.237.20.199 - 10116 | New York City, New York | Lat : 40.713192 , Lon -74.006065
-4) 207.172.17.54  - 60540 | Naperville, Illinois, Chicago | Lat:41.770999, Lon: -88.153042
+4) 207.172.17.54  - 60540 | DuPage county , Naperville, Illinois, Chicago | Lat:41.770999, Lon: -88.153042
 5) 207.172.19.235 - 20901 | Montgomery County, Silverspring, maryland | Lat:38.99067 , Lon: -77.02655
 6) 207.172.17.33  - 60540 | DuPage county , Naperville, Illinois, Chicago   | Lat:40.713192 , Lon: -74.006065
 7) 207.172.17.37  - 60540 | DuPage county , Naperville, Illinois, Chicago   | Lat:40.713192 , Lon: -74.006065
-8) 15.230.204.36  - 20146 | Amazon data center Loudoun County, Ashburn, virginia | Lat:38.99067 , Lon: -77.02655
-9) 52.93.59.131    
+8) 15.230.204.36  - 60540 | DuPage county , Naperville, Illinois, Chicago   | Lat:40.713192 , Lon: -74.006065
+9) 52.93.59.131   - 20146 | Amazon data center Loudoun County, Ashburn, virginia | Lat:38.99067 , Lon: -77.02655 
+
